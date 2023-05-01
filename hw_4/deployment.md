@@ -54,3 +54,4 @@ spec:
       - name: data
         persistentVolumeClaim:
           claimName: pg-storage
+          
